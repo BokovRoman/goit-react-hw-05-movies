@@ -1,3 +1,7 @@
+// Для нетлифая!!!!
+// npm install netlify-cli -g
+
+
 import { Route, Switch } from "react-router-dom";
 import { Suspense, lazy } from "react";
 
@@ -30,3 +34,10 @@ const App = () => (
   </>
 );
 export default App;
+
+
+
+
+
+// Для нетлифая!!!!
+// npm install netlify-cli -g
